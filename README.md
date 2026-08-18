@@ -1,10 +1,14 @@
-# system
+# Azen (OS)
+Azen is a operating system that are made from AnduinOS linux, we are still trying to improve our technology for the commiunty
+<img width="1920" height="1080" alt="截图 2026-0816 13-12-28" src="https://github.com/user-attachments/assets/d52c99f3-5de8-4c95-9412-6f3b1ea2f95d" />
+(screenshot of the system)
+
 
 ============================================================
-           Azen - 开源授权与法律免责声明
+           Azen - 开源授权与法律免责声明   （law annoucment)chinese ver.
 ============================================================
 
-本系统是由 梁子珽/Ziting Liang 先生 基于开源项目 AnduinOS 2.0 进行微调定制的 Linux 发行版。
+本系统是由 梁子珽/Ziting Liang 先生 基于开源项目 AnduinOS 1.4 进行微调定制的 Linux 发行版。
 
 一、 开源许可证约束（彻底防范闭源盈利）
 1. 衍生属性：本系统整体作为 AnduinOS 的衍生作品，严格且完全遵循 GNU General Public License v3.0 (GPLv3) 开源许可证。
