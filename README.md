@@ -1,4 +1,5 @@
 # Azen (OS)
+(warning: this repository will not update anymore since sep 22,only for showing)
 Azen is a operating system that are made from AnduinOS linux, we are still trying to improve our technology for the commiunty
 <img width="1920" height="1080" alt="截图 2026-0816 13-12-28" src="https://github.com/user-attachments/assets/d52c99f3-5de8-4c95-9412-6f3b1ea2f95d" />
 (screenshot of the system)
